@@ -141,8 +141,6 @@ uncertainty quantification, and real-world applicability. It emphasizes transpar
 ## Architecture Diagram
 ![image](https://github.com/Shriram2004/WEATHER-FORECASTING/assets/94173664/c7d3ee66-a08e-41f0-9b73-3f8d6dc82fc7)
 
-## Code
-
 ## Output
 ![image](https://github.com/Shriram2004/WEATHER-FORECASTING/assets/94173664/30015f7f-ca67-4214-b66f-37a5e9e7e221)
 ![image](https://github.com/Shriram2004/WEATHER-FORECASTING/assets/94173664/7fd40cc3-727e-49ef-b910-c630283f4e72)
